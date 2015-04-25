@@ -1,2 +1,6 @@
 # hello-world
-First Repository
+==============
+
+Hello Humans, 
+
+Get tacos on the moon
